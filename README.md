@@ -148,6 +148,17 @@ To improve recognition stability, the system uses:
 
 - **Purple:** License plate recognized and validated.
 - **Orange:** Plate detected, recognition still in progress.
+- ## 🎥 Live Demonstration
+
+This video demonstrates the real-time Automatic License Plate Recognition (ALPR) system using YOLOv8 for detection, OpenCV for image preprocessing, and EasyOCR for character recognition.
+
+The pipeline includes temporal stabilization and dynamic OCR threshold adjustment to improve recognition consistency across video frames.
+
+### ▶ Watch the Demonstration
+
+[Watch the ALPR demonstration video](images/Detection_plaques_assemblé.mp4)
+
+*The demonstration illustrates the system's detection and recognition workflow.*
 
 ## 🚀 9. Future Improvements
 
