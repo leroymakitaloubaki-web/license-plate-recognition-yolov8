@@ -101,6 +101,21 @@ The trained detector was evaluated on 1,020 test images using a confidence thres
 | **F1-Score** | **96.1%** |
 
 These results evaluate **license plate detection**, not the character recognition accuracy of the OCR system.
+### 📊 Confusion Matrix
+
+The YOLOv8 license plate detector achieved **98.9% precision**, **93.5% recall**, and a **96.1% F1-score** on the test evaluation.
+
+![YOLOv8 Confusion Matrix](images/matrice_confusion.png)
+
+### 📸 License Plate Detection and OCR
+
+The following examples illustrate license plate detection using YOLOv8 and optical character recognition using EasyOCR.
+
+![License Plate Detection Example 1](images/detection1.jpg)
+
+![License Plate Detection Example 2](images/detection2.jpg)
+
+*License plate identifiers have been anonymized for public demonstration.*
 
 ## 🔎 7. License Plate Recognition with EasyOCR
 
