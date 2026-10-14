@@ -160,13 +160,7 @@ The pipeline includes temporal stabilization and dynamic OCR threshold adjustmen
 
 *The demonstration illustrates the system's detection and recognition workflow.*
 
-## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leroy-makita-loubaki-a78792290/)
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kingtronix5)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@leroymakitaloubaki)
-
-Feel free to connect with me and explore my engineering, robotics, and artificial intelligence projects.
 
 ## 🚀 9. Future Improvements
 
@@ -174,3 +168,12 @@ Feel free to connect with me and explore my engineering, robotics, and artificia
 - Improve OCR parameter optimization.
 - Add automatic cleanup of inactive detections.
 - Explore
+
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leroy-makita-loubaki-a78792290/)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kingtronix5)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@leroymakitaloubaki)
+
+Feel free to connect with me and explore my engineering, robotics, and artificial intelligence projects.
